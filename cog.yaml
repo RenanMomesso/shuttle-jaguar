@@ -6,5 +6,7 @@ build:
     - transformers
     - accelerate
     - safetensors
+    - sentencepiece
+    - protobuf
 
 predict: "predict.py:Predictor"

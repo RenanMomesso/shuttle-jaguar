@@ -1,5 +1,6 @@
 torch
-diffusers
 transformers
+diffusers
 accelerate
-safetensors
+sentencepiece
+protobuf
